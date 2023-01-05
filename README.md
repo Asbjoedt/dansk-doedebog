@@ -1,2 +1,2 @@
 # dansk-doedebog
-Hjemmeside hvor brugere kan tænde lys for en afdød
+Hjemmeside hvor brugere kan tænde lys for en afdød.

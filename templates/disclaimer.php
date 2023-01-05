@@ -1,0 +1,1 @@
+<div class="disclaimer">Hjemmesiden er i beta. Alle lys slettes periodisk for at efterleve databeskyttelsesregler.</div>
